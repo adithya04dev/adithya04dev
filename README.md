@@ -2,11 +2,7 @@
 
 I'm in my third year of Computer Science Engineering at Vasavi College of Engineering 🎓. My passions broadly lie in Generative AI and Machine Learning — constantly exploring how to build practical AI solutions 🚀
 
-## Most Used Technologies
-- Python & LangChain 45%
-- PyTorch & Hugging Face 25%
-- FastAPI & Backend Dev 15%
-- Vector Databases 15%
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithya04dev&show_icons=true&locale=en&layout=compact" alt="adithya04dev" /></p>
 
 
 

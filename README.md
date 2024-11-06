@@ -1,10 +1,12 @@
 # Hey there, I'm Adithya 👋
 
-I'm in my third year of Computer Science Engineering at Vasavi College of Engineering 🎓. My passions broadly lie in Generative AI and Machine Learning — constantly exploring how to build practical AI solutions 🚀
+- 🔭 I'm a Computer Science student passionate about AI/ML
+- 🌱 Currently diving deep into Generative AI, LLMs,Finetuning,RAG,tool calling and Agents
+- 👯 Looking to collaborate on innovative GenAI research projects
+- 🛠️ Building with LangChain, PyTorch,Pandas and Vector Databases
+- 🚀 Love discussing AI Research and Innovation!
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithya04dev&show_icons=true&locale=en&layout=compact" alt="adithya04dev" /></p>
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithya04dev&theme=dracula&size_weight=0.5&count_weight=0.5&layout=donut&hide=Jupyter&exclude_repo=ProcTecht)
 
 ## Let's Connect! 💬
 Feel free to reach out via [LinkedIn](https://linkedin.com/in/adithya-balagoni-78082b168/) for formal inquiries, or check out my other projects on [GitHub](https://github.com/adithya04dev)! Let's chat! 🤝

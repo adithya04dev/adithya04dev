@@ -1,9 +1,9 @@
 # Hey there, I'm Adithya 👋
 
-- 🔭 I'm a Computer Science student passionate about AI/ML
-- 🌱 Currently diving deep into Generative AI, LLMs,Finetuning,RAG,tool calling and Agents
-- 👯 Looking to collaborate on innovative GenAI research projects
-- 🛠️ Building with LangChain, PyTorch,Pandas and Vector Databases
+- 🔭 I'm a Computer Science student/Intern at AT&T passionate about AI/ML.
+- 🌱 Currently working on LLMs,tool calling,Agents,RAG.
+- - 🛠️ Building with LangChain, PyTorch,Pandas and Vector Databases
+- 👯 Looking to collaborate on innovative GenAI research projects.
 - 🧠 Recently Exploring  smarter AI agents that can reason, plan, and execute tasks autonomously
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithya04dev&theme=dracula&size_weight=0.5&count_weight=0.5&layout=donut&hide=Jupyter&exclude_repo=ProcTecht,Artworks_Website,Finhub)

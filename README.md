@@ -2,7 +2,7 @@
 
 - 🔭 I'm a Computer Science student/Intern at AT&T passionate about AI/ML.
 - 🌱 Currently working on LLMs,tool calling,Agents,RAG.
-- - 🛠️ Building with LangChain, PyTorch,Pandas and Vector Databases
+- 🛠️ Building with LangChain, PyTorch,Pandas and Vector Databases
 - 👯 Looking to collaborate on innovative GenAI research projects.
 - 🧠 Recently Exploring  smarter AI agents that can reason, plan, and execute tasks autonomously
 
